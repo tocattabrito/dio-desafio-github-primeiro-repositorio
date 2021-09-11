@@ -1,0 +1,38 @@
+======================================================
+		      #ANOTAÇÕES:
+======================================================
+O Git Bash é um terminal extendido para otimizar o uso do Git.
+
+
+
+
+
+
+
+
+
+=====================================================
+		   #COMANDOS DO GIT
+=====================================================
+## Clonar Diretório
+ $ git clone <colar o link do repositório>
+-----------------------------------------------------
+## Acessar as pastas
+ $ cd <nome da pasta>
+-----------------------------------------------------
+## Status do Repositório
+ $ git status
+-----------------------------------------------------
+## Adicionar todos os arquivos(controle de versão local)
+ $ git add .
+ $ git add -A
+-----------------------------------------------------
+## Commitar arquivos
+ $ git commit -m "<mensagem>" 
+
+exemplo:
+ $ git commit -m "Inclusão das anotações do curso de Git/GitHub"
+-----------------------------------------------------
+## Configurar usuario
+$ git config --global user.email "you@example.com"
+$ git config --global user.name "Your Name"
