@@ -33,6 +33,12 @@ O Git Bash é um terminal extendido para otimizar o uso do Git.
 exemplo:
  $ git commit -m "Inclusão das anotações do curso de Git/GitHub"
 -----------------------------------------------------
+## Envio da branch(envia todos os commits local para nuvem)
+ $ git push origin main
+
+-----------------------------------------------------
 ## Configurar usuario
 $ git config --global user.email "you@example.com"
 $ git config --global user.name "Your Name"
+
+------------------------------------------------------
